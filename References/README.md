@@ -1,6 +1,6 @@
-[Zkpk2010-552.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113040/Zkpk2010-552.pdf)
-[1704.03578.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113041/1704.03578.pdf)
-[2018-637.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113043/2018-637.pdf)
+[Zkpk2010-552.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113040/Zkpk2010-552.pdf) \\
+[1704.03578.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113041/1704.03578.pdf) \\
+[2018-637.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113043/2018-637.pdf) 
 [07583913.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113044/07583913.pdf)
 [12230053287357677798.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113045/12230053287357677798.pdf)
 [AES Purdue.pdf](https://github.com/MoinA0529/Breaking-Cryptosystems/files/9113048/AES.Purdue.pdf)
